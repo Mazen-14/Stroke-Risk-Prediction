@@ -188,5 +188,3 @@ Classification Report For XGBoost:
 - Mazen Mohamed Hemdan
 - Ziad Tamer Ibrahim
 - Ebrahim Benbella ElSayed
-- Joumana Mohamed
-- Basmalla Hussien
